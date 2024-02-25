@@ -687,13 +687,18 @@ body, nav ul {
 
 }
 @media screen and (max-width : 600px) { 
-
-  
+  .swiperCard { padding-bottom: 82px;}
+  .cardsSection .linkTxt { padding: 20px 0;}
+  .timmerSection .container {
+    padding-top: 0;
+    padding-bottom: 20px }
+  .clientReiew { padding-top: 20px;}
+  .clientReiew h1 { padding-bottom: 25px;}
     .timmerSection  img { display: none;}
     .timmerSection .authour .authorDtls { padding: 15px;}
 
     footer {
-      padding: 60px;
+      padding: 15px;
       .grid { grid-template-columns: 1fr;
         .innerGrid {padding-bottom: 40px;}
       }
