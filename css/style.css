@@ -770,12 +770,28 @@ body, nav ul {
   }
   .clientReiew h1 {
     padding-bottom: 25px;
+    text-align: left;
   }
   .timmerSection img {
     display: none;
   }
   .timmerSection .authour .authorDtls {
     padding: 15px;
+  }
+  .slider .homeSlider .bannerDetials {
+    padding-top: 50px;
+    padding-bottom: 50px;
+  }
+  .slider .homeSlider .bannerDetials h1 {
+    font-size: 37px;
+    line-height: 37px;
+  }
+  .slider .homeSlider .bannerDetials p {
+    padding-top: 15px;
+    font-size: 15px;
+  }
+  .slider .homeSlider .bannerDetials p span {
+    display: inherit;
   }
   footer {
     padding: 15px;
