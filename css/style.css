@@ -764,6 +764,9 @@ body, nav ul {
   .timmerSection .number {
     font-size: 26px;
   }
+  .swiperCard {
+    padding-bottom: 80px;
+  }
 }
 @media screen and (max-width: 640px) {
   .cardsSection .cards {
@@ -775,7 +778,7 @@ body, nav ul {
 }
 @media screen and (max-width: 600px) {
   .swiperCard {
-    padding-bottom: 82px;
+    padding-bottom: 30px;
   }
   .cardsSection .linkTxt {
     padding: 20px 0;
