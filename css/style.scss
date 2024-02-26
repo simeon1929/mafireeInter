@@ -315,6 +315,16 @@ h3 {
       }
     }
   }
+
+  .cardsSection.card2 {
+    background-color: #fff;
+    .redBg {
+      background-color: #424242;
+    }
+    .bggray { background-color: #d9d7d7;}
+    .whiteText { color: #000;}
+  } 
+  .cardsSection.card2 .cards .yellowbg { background-color: #cc0000; color: #fff;}
   .bgClipBig {
     padding: 74px 20px 0px ;
       width: 100%;
@@ -482,6 +492,7 @@ h3 {
 
 .swiper-button-next:after, .swiper-button-prev:after { display: none;}
 .clientReiew {
+  background-color: #f4f4f4;
   padding-top: 75px;
   padding-bottom: 30px;
   h1 { padding-bottom: 75px;}
